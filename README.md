@@ -3,3 +3,5 @@ Windows desktop application for audio and video playing. Capable of various audi
 
 **Technology stack:** .NET Framework, WPF, C/C++, DirectX, libvlc, FFmpeg
 
+# License
+GNU GPL v3
